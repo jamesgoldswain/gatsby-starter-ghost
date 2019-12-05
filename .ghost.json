@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://blog.jamesgoldswain.net",
-    "contentApiKey": "922ac624f4b1088b47277e91ef"
+    "apiUrl": "https://ghost.jamesgoldswain.net",
+    "contentApiKey": "0a0b111ca7bb00ed5cd3d49938"
   },
   "production": {
-    "apiUrl": "https://blog.jamesgoldswain.net",
-    "contentApiKey": "922ac624f4b1088b47277e91ef"
+    "apiUrl": "https://ghost.jamesgoldswain.net",
+    "contentApiKey": "0a0b111ca7bb00ed5cd3d49938"
   }
 }
